@@ -1,2 +1,2 @@
 # DSCNN
-A deep sift convolutional neural network
+Reository for "deep sift convolutional neural network"
